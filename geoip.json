@@ -13,18 +13,8 @@
       "type": "cutter",
       "action": "remove",
       "args": {
-        "wantedList": ["cn"],
-        "onlyIPType": "ipv4"
+        "wantedList": ["cn"]
       }
-    },
-    {
-      "type": "cutter",
-      "action": "remove",
-      "args": {
-        "wantedList": ["cn"],
-        "onlyIPType": "ipv6"
-      }
-    },
     {
       "type": "text",
       "action": "add",
