@@ -1,4 +1,4 @@
-var __PROXY__ = 'SOCKS5 127.0.0.1:1080; DIRECT';
+var __PROXY__ = 'SOCKS5 127.0.0.1:9999; DIRECT';
 var __USERRULES__ = [
   "@@||yacd.haishan.me",
   "@@||yacd.metacubex.one",
